@@ -36,18 +36,20 @@ BoostSRL assumes that data are contained in files with data structured in predic
 
 ### Positive Examples
 
-```bash
+```prolog
 father(harrypotter,jamespotter).
 father(ginnyweasley,arthurweasley).
 father(ronweasley,arthurweasley).
 ...
+```
 
 ### Negative Examples
 
-```bash
+```prolog
 father(harrypotter,mollyweasley).
 father(harrypotter,lilypotter).
 father(harrypotter,ronweasley).
 ...
+```
 
 ### Facts
