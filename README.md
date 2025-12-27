@@ -73,3 +73,8 @@ cd RRBMBoostWithdIncluded
 ```bash
 java edu.wisc.cs.will.Boosting.RBM.RunBoostedRBM -rbm -l -train train/ -target father -trees 10
 ```
+## Inference with the Lifted Restricted Boltzmann Machines:
+
+```bash
+java edu.wisc.cs.will.Boosting.RBM.RunBoostedRBM -rbm -i -model train/models/ -test test/ -target father -trees 10
+```
