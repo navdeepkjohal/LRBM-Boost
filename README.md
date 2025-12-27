@@ -34,4 +34,7 @@ The training data required to run *LRBM-Boost* requires:
 
 BoostSRL assumes that data are contained in files with data structured in predicate-logic format.
 
-**Positive Examples**
+### Positive Examples
+
+```bash
+pip install mypackage
