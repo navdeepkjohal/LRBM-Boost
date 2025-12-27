@@ -20,4 +20,6 @@ The main file to run this code is *RRBMBoostWithdIncluded/src/edu/wisc/cs/will/B
 
 ![Alt text](https://github.com/navdeepkjohal/LRBM-Boost/blob/master/Image/basicFileStructure.png)
 
+The above image is borrowed from [BoostSRL](https://github.com/starling-lab/BoostSRL)
+
 
