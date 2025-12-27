@@ -66,4 +66,7 @@ childof(lilypotter,harrypotter).
 
 ## Learning a Lifted Restricted Boltzmann Machines:
 
-cd 
+```bash
+cd RRBMBoostWithdIncluded
+```
+
