@@ -78,3 +78,19 @@ java edu.wisc.cs.will.Boosting.RBM.RunBoostedRBM -rbm -l -train train/ -target f
 ```bash
 java edu.wisc.cs.will.Boosting.RBM.RunBoostedRBM -rbm -i -model train/models/ -test test/ -target father -trees 10
 ```
+### Cite
+
+```bash
+@article{LRBMBoostKAUR2020,
+title = {Non-parametric learning of lifted Restricted Boltzmann Machines},
+journal = {International Journal of Approximate Reasoning},
+volume = {120},
+pages = {33-47},
+year = {2020},
+issn = {0888-613X},
+doi = {https://doi.org/10.1016/j.ijar.2020.01.003},
+url = {https://www.sciencedirect.com/science/article/pii/S0888613X19302749},
+author = {Navdeep Kaur and Gautam Kunapuli and Sriraam Natarajan},
+keywords = {Restricted Boltzmann Machines, Learning lifted models, Functional gradient boosting}
+}
+```
