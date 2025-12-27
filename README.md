@@ -1,4 +1,4 @@
-**Introduction**
+#Introduction
 
 This is the implementation of the *Non-parametric Learning of Lifted Restricted Boltzmann Machines* (LRBM-Boost) paper which is available at [this link](https://www.sciencedirect.com/science/article/pii/S0888613X19302749).
 
@@ -32,4 +32,6 @@ The training data required to run *LRBM-Boost* requires:
 
 * *train_bk.txt*: the file containing the modes required to learn the rules. (To learn how to set the modes, follow [this](https://starling-lab.github.io/software/boostsrl/wiki/basic-modes/) tutorial.)
 
+BoostSRL assumes that data are contained in files with data structured in predicate-logic format.
 
+**Positive Examples**
