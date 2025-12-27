@@ -32,3 +32,4 @@ The training data required to run *LRBM-Boost* requires:
 
 * *train_bk.txt*: the file containing the modes required to learn the rules. (To learn how to set the modes, follow [this](https://starling-lab.github.io/software/boostsrl/wiki/basic-modes/) tutorial.)
 
+
