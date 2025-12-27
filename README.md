@@ -78,7 +78,8 @@ java edu.wisc.cs.will.Boosting.RBM.RunBoostedRBM -rbm -l -train train/ -target f
 ```bash
 java edu.wisc.cs.will.Boosting.RBM.RunBoostedRBM -rbm -i -model train/models/ -test test/ -target father -trees 10
 ```
-### Cite
+### Citation
+Please cite our paper as:
 
 ```bash
 @article{LRBMBoostKAUR2020,
