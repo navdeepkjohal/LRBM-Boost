@@ -6,4 +6,10 @@ This is the implementation of the *Non-parametric Learning of Lifted Restricted 
 
 This code builds upon the popular Boost-SRL tool available here [this link](https://github.com/starling-lab/BoostSRL) and the detailed documentaion is available [here](https://starling-lab.github.io/software/boostsrl/) and the type of input needed to run LRBM-Boost is identical to one required for running Boost-SRL tool.
 
+**Software Requirement**
+
+**Prerequisites**:
+
+Java (tested with openjdk 1.8.0_144)
+
 
