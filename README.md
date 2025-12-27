@@ -37,4 +37,7 @@ BoostSRL assumes that data are contained in files with data structured in predic
 ### Positive Examples
 
 ```bash
-pip install mypackage
+father(harrypotter,jamespotter).
+father(ginnyweasley,arthurweasley).
+father(ronweasley,arthurweasley).
+...
