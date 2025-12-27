@@ -12,4 +12,7 @@ This code builds upon the popular Boost-SRL tool available here [this link](http
 
 Java (tested with openjdk 1.8.0_144)
 
+**Main file**
+The main file to run this code is *RRBMBoostWithdIncluded/src/edu/wisc/cs/will/Boosting/RBM/RunBoostedRBM.java*
+
 
