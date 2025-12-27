@@ -41,3 +41,13 @@ father(harrypotter,jamespotter).
 father(ginnyweasley,arthurweasley).
 father(ronweasley,arthurweasley).
 ...
+
+### Negative Examples
+
+```bash
+father(harrypotter,mollyweasley).
+father(harrypotter,lilypotter).
+father(harrypotter,ronweasley).
+...
+
+### Facts
