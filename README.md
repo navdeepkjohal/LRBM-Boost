@@ -53,3 +53,17 @@ father(harrypotter,ronweasley).
 ```
 
 ### Facts
+
+```prolog
+male(harrypotter).
+male(jamespotter).
+siblingof(ronweasley,fredweasley).
+siblingof(ronweasley,georgeweasley).
+childof(jamespotter,harrypotter).
+childof(lilypotter,harrypotter).
+...
+```
+
+## Learning a Lifted Restricted Boltzmann Machines:
+
+cd 
