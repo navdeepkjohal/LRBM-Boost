@@ -70,3 +70,6 @@ childof(lilypotter,harrypotter).
 cd RRBMBoostWithdIncluded
 ```
 
+```bash
+java edu.wisc.cs.will.Boosting.RBM.RunBoostedRBM -rbm -l -train train/ -target father -trees 10
+```
