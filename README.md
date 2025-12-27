@@ -16,4 +16,8 @@ Java (tested with openjdk 1.8.0_144)
 
 The main file to run this code is *RRBMBoostWithdIncluded/src/edu/wisc/cs/will/Boosting/RBM/RunBoostedRBM.java*
 
+**Basic Usage**
+
+![Alt text](https://github.com/navdeepkjohal/LRBM-Boost/blob/master/Image/basicFileStructure.png)
+
 
