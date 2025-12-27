@@ -20,6 +20,12 @@ The main file to run this code is *RRBMBoostWithdIncluded/src/edu/wisc/cs/will/B
 
 ![Alt text](https://github.com/navdeepkjohal/LRBM-Boost/blob/master/Image/basicFileStructure.png)
 
-The above image is borrowed from [BoostSRL](https://github.com/starling-lab/BoostSRL)
+*The above image is borrowed from [BoostSRL](https://github.com/starling-lab/BoostSRL)
 
+The training data required to run *LRBM-Boost* requires:
+
+*train_pos.txt*: the positive examples required to train the model.
+*train_neg.txt*: the negative examples required to train the model.
+*train_facts.txt*: file containing the facts that will form body of the rules.
+*train_bk.txt*: the file containing the modes required to learn the rules. (To learn how to set the modes, follow [this](https://starling-lab.github.io/software/boostsrl/wiki/basic-modes/) tutorial.)
 
